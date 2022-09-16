@@ -1,0 +1,209 @@
+body {
+  background: linear-gradient(#6aa4fb, white);
+}
+
+h1, h3, h4, a {
+  font-family: Almarai, sans-serif;
+}
+
+p {
+  text-align: justify;
+  font-family: Almarai, sans-serif;
+}
+
+footer {
+  background-color: #2f3438;
+  color: #ffffff;
+}
+
+.cuerpo {
+  background-color: #ffffff;
+  margin: 25px;
+  margin-right: 100px;
+  margin-left: 100px;
+  box-shadow: 2px 2px 10px;
+}
+
+.contenido {
+  margin: 25px;
+}
+
+#contacto {
+  box-shadow: 2px 2px 10px;
+}
+
+.banner {
+  padding-top: 25px;
+}
+
+.menu {
+  border-bottom: 1px solid #212529bb ;
+}
+
+.itemMenu {
+  border-top-left-radius: 13px;
+  border-top-right-radius: 13px;
+}
+
+.itemMenu:hover {
+  background: #0066ff;
+  color: #ffffff !important;
+}
+
+.itemDropdown:hover {
+  background: #8bb9ff;
+}
+
+.row {
+  width: 100%;
+}
+
+.escudoFooter {
+  padding: 25px;
+}
+
+.escudoFooter img, #pTipo2 img {
+  float: left;
+  margin-top: 25px;
+}
+
+.escudoFooter p {
+  margin-top: 90px;
+  margin-left: 158px;
+}
+
+.contactoFooter div {
+  margin-top: 25px;
+}
+
+.botonesFooter {
+  margin-top: 125px;
+}
+
+.botonBullying {
+  margin-left: 26px;
+}
+
+#pTipo1 img {
+  float: right;
+}
+
+#pTipo1 p {
+  margin-right: 130px;
+}
+
+#pTipo2 p {
+  margin-left: 130px;
+}
+
+#pTipo3 {
+  margin-left: 190px;
+  margin-right: 190px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+#selloEducativo {
+  text-align: center;
+  margin-left: 190px;
+  margin-right: 190px;
+  margin-top: 50px;
+  padding-bottom: 25px;
+}
+
+#visionMisionImg {
+  padding-bottom: 25px;
+  text-align: center;
+}
+
+#visionMisionImg p {
+  text-align: center;
+  font-size: 12px;
+}
+
+#accordion {
+  font-family: Almarai, sans-serif;
+  padding-bottom: 25px;
+}
+
+#accordion img, .tutorial img {
+  float: left;
+}
+
+.cargo {
+  margin-left: 150px;
+  padding-top: 25px;
+  height: 170px;
+}
+
+.descripcionDescarga {
+  height: 170px;
+  margin-left: 100px;
+  padding-top: 20px;
+  margin-bottom: 10px;
+}
+
+.imagenDocumento, .accordionOtros {
+  margin-top: 25px;
+}
+
+#formulario p {
+  text-align: center;
+}
+
+#contenidoModal {
+  margin-right: 25px;
+  margin-left: 25px;
+}
+
+.bordeVideo {
+  border-style: ridge;
+}
+
+#tituloVideo1 {
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+#tituloVideo2 {
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+#videos {
+  padding-bottom: 25px;
+}
+
+#videos .container {
+  margin-top: 25px;
+}
+
+#videoAdmision {
+  margin-top: 15px;
+}
+
+#imagenAdmision {
+  margin-top: 40px;
+}
+
+#comunicadoAdmision {
+  margin-top: 40px;
+  margin-right: 160px;
+  margin-left: 160px;
+  padding: 10px;
+  box-shadow: 2px 1px 9px;
+}
+
+#fechaPublicacion {
+  text-align: right;
+}
+
+#carousel {
+  margin-top: 40px;
+  margin-right: 160px;
+  margin-left: 160px;
+  padding-right: 100px;
+  padding-left: 100px;
+  padding-bottom: 50px;
+}
+
